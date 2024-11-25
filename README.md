@@ -214,6 +214,11 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 
 Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
 
+### 🔍 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024)  - 30% OFF with code BLACKFRIDAY2024
+
+HoudahSpot is a file search tool that helps you organize files and finds these if you did not. 
+
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -387,6 +392,14 @@ Control the brightness of your monitors directly from your Mac - no need to touc
 PhotInfo is an app to view and edit the information (location, date, dimensions, camera, IPTC tags, etc.) contained in your in your photos.
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
+
+### 🌎 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photo geotagging for Mac. Know where you took that photo. Add GPS locations to JPEG, RAW, Apple Photos.
+
+### 📷 [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photos Workbench help you organize, rate, and compare your Apple Photos library. Add locations & star ratings. Batch change titles.
 
 <p>&nbsp;</p>
 
